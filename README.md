@@ -19,7 +19,7 @@ Now we can start grafana using the following credentials
 Username: `admin`
 Password: `admin`
 
-## Create Dashbord
+## Create Dashboard
 Now we can go to `Dashboard` -> `Import` -> following
 
 * Node Exporter Full (ID: `1860`): Comprehensive system metrics
